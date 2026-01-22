@@ -1,0 +1,31 @@
+<!-- Footer -->
+<footer class="footer">
+  <div class="container footer__grid">
+    <div>
+      <div class="brand" style="margin-bottom:10px;">Inlet Pressure Washing</div>
+      <p>Virginia Beach, VA</p>
+      <p><a href="tel:7572192839">(757) 219-2839</a></p>
+      <p><a href="mailto:office@inletservices.com">office@inletservices.com</a></p>
+    </div>
+
+    <div>
+      <h3>Quick Links</h3>
+      <a href="/src/pages/index.html">Home</a><br />
+      <a href="/src/pages/services/index.html">Services</a><br />
+      <a href="/src/pages/contact/index.html">Contact</a>
+    </div>
+
+    <div>
+      <h3>Get a Quote</h3>
+      <a class="btn btn--primary" href="/src/pages/contact/index.html">Request Estimate</a>
+    </div>
+  </div>
+
+  <div class="container footer__bottom">
+    <small>© <span id="year"></span> Inlet Pressure Washing</small>
+  </div>
+</footer>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
