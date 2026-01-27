@@ -229,4 +229,11 @@
   object-fit: cover;
   display: block;
 }
+.hero__logo {
+  display: block;
+  max-width: 280px;   /* adjust as needed */
+  width: 100%;
+  height: auto;
+  margin: 0 0 16px 0; /* space between logo and headline */
+}
 
