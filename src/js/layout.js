@@ -11,6 +11,6 @@ async function injectPartial(selector, url) {
 }
 
 (async () => {
-  await injectPartial("#site-header", "/src/partials/header.html");
-  await injectPartial("#site-footer", "/src/partials/footer.html");
+  await injectPartial("#site-header", "/partials/header.html");
+  await injectPartial("#site-footer", "/partials/footer.html");
 })();
