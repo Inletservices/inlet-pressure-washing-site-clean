@@ -1,4 +1,4 @@
-async function injectPartial(selector, url) {
+async function injectPartial(selector, url) { 
   const el = document.querySelector(selector);
   if (!el) return;
 
