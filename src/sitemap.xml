@@ -1,28 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://inletpressurewashing.com/</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://inletpressurewashing.com/pages/services/power-washing.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://inletpressurewashing.com/pages/services/house-washing.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://inletpressurewashing.com/pages/services/roof-cleaning.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://inletpressurewashing.com/pages/contact.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>0.70</priority>
-  </url>
+
+<url>
+<loc>https://inletpressurewashing.com/</loc>
+<priority>1.00</priority>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/commercial-pressure-washing.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/deck-cleaning.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/fence-cleaning.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/gutter-cleaning.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/house-washing.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/kitchen-exhaust-hood-cleaning.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/oceanfront-hood-cleaning.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/patio-cleaning.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/paver-cleaning.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/power-washing.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/services/roof-cleaning.html</loc>
+</url>
+
+<url>
+<loc>https://inletpressurewashing.com/pages/contact.html</loc>
+</url>
+
 </urlset>
